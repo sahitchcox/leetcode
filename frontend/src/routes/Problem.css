@@ -1,0 +1,8 @@
+*:not(.solution) code {
+    background: #f6ce84;
+    border-radius: .2rem;
+    padding: .2rem;
+  }
+.solution > div {
+border-radius: .4rem;
+}
